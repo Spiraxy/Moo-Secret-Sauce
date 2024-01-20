@@ -23,7 +23,7 @@
             "second":0
         }
     },
-    "ANGELCOW":{
+    "ANGEL":{
         "RewardType":"Cow",
         "Reward":"AngelCow",
         "Expiry":{
