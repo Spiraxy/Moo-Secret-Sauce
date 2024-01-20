@@ -23,6 +23,18 @@
             "second":0
         }
     },
+    "ANGELCOW":{
+        "RewardType":"Cow",
+        "Reward":"AngelCow",
+        "Expiry":{
+            "year":2024,
+            "month":2,
+            "day":1,
+            "minute":0,
+            "hour":0,
+            "second":0
+        }
+    },
     "TESTHELP":{
         "RewardType":"CB",
         "Reward":500,
